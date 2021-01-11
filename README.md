@@ -1,3 +1,5 @@
 # study-javascript
+자바스크립트를 공부하며 정리한 MD파일
 
-https://poiemaweb.com/ 의 Javascript를 참고하여 정리한 레포입니다.
+### 참고
+https://poiemaweb.com/ 의 Javascript
